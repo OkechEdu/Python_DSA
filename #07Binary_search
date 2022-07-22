@@ -13,5 +13,5 @@ def binary(A, key):
     return "NotFound"
 
 A = [24,35,67,87,100,32]
-key = 10
+key = 35
 print(binary(A, key))
