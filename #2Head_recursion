@@ -5,4 +5,5 @@ def fun(n):
         k = n*n
         print(k)
         
+        
 fun(5)
